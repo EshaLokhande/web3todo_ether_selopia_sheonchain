@@ -1,70 +1,16 @@
-# Getting Started with Create React App
+# Task Manangement dApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About Me
 
-## Available Scripts
+Esha Lokhande, a third-year Computer Science engineering student, is a passionate MERN stack developer with a strong foundation in frontend technologies like HTML, CSS, and JavaScript. She has basic knowledge of backend development with Node.js and Express, along with experience in databases like MySQL and MongoDB. Skilled in C, C++, SQL, and version control, Esha recently joined the Rise In bootcamp, where she was part of an amazing Web3 team. There, she learned Solidity, deployed smart contracts, and gained hands-on blockchain experience. With strong communication skills and a problem-solving mindset, she is eager to explore innovative tech solutions.
 
-In the project directory, you can run:
+## Description
 
-### `npm start`
+The Task Management dApp is a decentralized application built on the Stellar blockchain using ReactJS and Solidity. It enables users to create, assign, track, and complete tasks securely and transparently. Utilizing Web3 technology, the dApp ensures that all task data is stored on-chain, preventing tampering or loss. Users can set deadlines, update statuses, and verify completed work through smart contracts. The platform enhances collaboration by allowing multiple users to interact seamlessly while maintaining decentralization. By integrating Stellar’s fast and low-cost transactions, the dApp ensures efficiency and accessibility. This project aims to provide a trustless, secure, and transparent task management solution for individuals and teams in a blockchain-powered ecosystem.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Vision
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Our vision is to revolutionize task management by creating a decentralized platform that empowers users with transparency, security, and full ownership of their data. Built with ReactJS and Solidity on the Stellar blockchain, our dApp ensures trustless collaboration, allowing individuals and teams worldwide to create, assign, and track tasks seamlessly. By leveraging blockchain technology, we eliminate central authority control, ensuring immutable records and enhanced security. This project will transform productivity by fostering accountability, reducing fraud, and enabling seamless remote teamwork. We aim to set a new standard for decentralized task management, making work more efficient, fair, and accessible for everyone.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Contract Address
+0x1ED3C5ad9AdB15869ADA4F9dD29d2dA4d269bD5E
